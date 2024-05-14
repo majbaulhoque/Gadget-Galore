@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a Gadget Galore. In this web site has different kind of feature & 3 section. 
+The name of the section is Login, Home & Favorite. when anyone click  in Home section
+then he/she can sees lots of phone name card through. In this card has see details button.
+When you clicked see details you can see mobile price add to favorite option, product
+rating. After when you clicked favorites option you can sees your selected card. Then you
+can buy this product.  
